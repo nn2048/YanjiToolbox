@@ -1,0 +1,6 @@
+# This repository is a release channel only. Source and signing keys must never be committed.
+release-private-DO-NOT-UPLOAD/
+*.pdb
+*.pem
+*.key
+src/
